@@ -1,0 +1,20 @@
+{
+  "name": "node-sass-module-importer",
+  "version": "1.0.0",
+  "description": "Import sass files from node_modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "sass",
+    "importer",
+    "node_modules"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "resolve": "^1.1.6"
+  }
+}
